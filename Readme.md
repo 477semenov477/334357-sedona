@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/adaptive/10/user/334357).
-* Наставник: `Неизвестно`.
+* Студент: [Валерий Забков](https://up.htmlacademy.ru/adaptive/10/user/334357).
+* Наставник: [Дмитрий Лебедев](https://htmlacademy.ru/profile/id51265).
 
 ---
 
